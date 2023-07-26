@@ -1,0 +1,85 @@
+[{
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zdf1hdfmszyekajg7ifo",
+    "name":"SS Hyderabad Briyani",
+    "tittle":"Biryani, North Indian",
+    "rateing":"4.4",
+    "time":"26 MINS",
+    "rate":"₹100"
+},{
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/vciivwzggkt7tmemz6a6",
+    "name":"A1 Ambur Biriyani",
+    "tittle":"Biryani, Chinese",
+    "rateing":"4.0",
+    "time":"32 MINS",
+    "rate":"₹100"
+},{
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ny8kj6b4mltw140wil1l",
+    "name":"Salem RR Biriyani Unavagam",
+    "tittle":"Biryani, Chettinad",
+    "rateing":"3.7",
+    "time":"22 MINS",
+    "rate":"₹100"
+},{
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/cyxyhx6wzgi9ogyapxym",
+    "name":"Tasty Kitchen",
+    "tittle":"Biryani, South Indian",
+    "rateing":"4.2",
+    "time":"35 MINS",
+    "rate":"₹100"
+},{
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/cyxyhx6wzgi9ogyapxym",
+    "name":"Sangeetha Veg",
+    "tittle":"North Indian, Indian",
+    "rateing":"4.2",
+    "time":"33 MINS",
+    "rate":"₹100"
+},{
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/e33e1d3ba7d6b2bb0d45e1001b731fcf",
+    "name":"Burger King",
+    "tittle":"Burgers, American",
+    "rateing":"4.6",
+    "time":"39 MINS",
+    "rate":"₹100"
+},{
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zjqun8ivpuf7p0tn1pcv",
+    "name":"Hotel Crescent",
+    "tittle":"Kerala, South Indian",
+    "rateing":"4.1",
+    "time":"30 MINS",
+    "rate":"₹100"
+},{
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/f115e9672d86fd9b874c2453168368e3",
+    "name":"Nithya Amirtham",
+    "tittle":"South Indian, Sweets",
+    "rateing":"4.3",
+    "time":"37 MINS",
+    "rate":"₹100"
+},{
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/biztrxunzi2lklnrzgjf",
+    "name":"Bismillah Biryani & Fast Food",
+    "tittle":"Tandoor, Chinese",
+    "rateing":"3.5",
+    "time":"35 MINS",
+    "rate":"₹100"
+},{
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dkds8g7ak8rneieejko6",
+    "name":"Doveton Cafe",
+    "tittle":"North Indian, Chinese",
+    "rateing":"4.3",
+    "time":"19 MINS",
+    "rate":"₹100"
+},{
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hwbeetykbqbudvijg6yd",
+    "name":"Buhari",
+    "tittle":"Biryani, North Indian",
+    "rateing":"3.9",
+    "time":"19 MINS",
+    "rate":"₹100"
+},{
+    "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/d5mwoeedtq2flw45mio4",
+    "name":"Doveton Cafe",
+    "tittle":"North Indian, Chinese",
+    "rateing":"4.3",
+    "time":"19 MINS",
+    "rate":"₹100"
+}]

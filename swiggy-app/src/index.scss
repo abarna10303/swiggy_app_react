@@ -1,0 +1,273 @@
+body
+{
+    color: #282c3f;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container
+{
+    width: 70%;
+    margin: 0 auto;
+}
+.image img
+{
+    width: 100%;
+}
+.row
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.row2{
+    display: flex;
+    justify-content: space-between !important;
+}
+.loginBtn
+{
+    margin-right: 0.5rem !important;
+}
+.loginBtn:hover
+{
+    color: #fc8019;
+    background-color: white !important;
+}
+.signinBtn
+{
+    color: white;
+    background-color: black !important;
+    border-radius: 0px !important;
+}
+.signinBtn:hover
+{
+    box-shadow: 0px 0px 0px 2px #ccc;
+    background-color: black !important;
+}
+.header{
+    padding: 1rem 0rem;
+    display: flex;
+    align-items: center;
+    width: 70% !important;
+    justify-content: space-between;
+    margin: 0 auto;
+    .headerLogo
+    {
+        display: flex;
+        gap: 2rem;
+        align-items: center;
+        .logo
+        {
+            width: 45px;
+            transition: .2s;
+        }
+        .logo img
+        {
+            width: 100%;
+        }
+        .logo:hover{
+            transform: scale(1.1,1.1);
+            transition: .2s;
+        }
+        .content
+        {
+            font-size: 12px;
+        }
+        .content b
+        {
+            border-bottom: 2px solid black;
+            padding-bottom: 5px;
+            margin-right: 10px;
+        }
+        .content span
+        {
+            position: relative;
+        }
+        .content b:hover
+        {
+            color: #fc8019;
+            border-color:#fc8019;
+        }
+        .content svg
+        {
+            color: #fc8019;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+        .content span
+        {
+            color: #686b78;
+        }
+    }
+    .nav
+    {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        font-size: 15px;
+        .navIcons svg
+        {
+            margin-right: 15px;
+            position: relative;
+            top: 70%;
+            transform: translateY(-50%);
+        }
+        .navIcons:hover
+        {
+            color: #fc8019;
+            cursor: pointer;
+        }
+        sup
+        {
+            font-size: 11px;
+        }
+    }
+}
+.adBanner
+{
+    background-image:  linear-gradient( rgb(255, 255, 255),rgb(201, 188, 244));
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    .adBannerContainer{
+        width: 80%;
+        margin: 0 auto;
+        padding: 1rem 0rem;
+        .image img
+        {
+            width: 100%;
+        }
+        .image h1
+        {
+            font-size: 3rem;
+        }
+    }  
+}
+.onYourMind
+{
+    padding: 1.5rem 0;
+    .mindCard
+    {
+        width: 11.76%;
+        display: inline-block;
+    }
+    .mindCard img
+    {
+        width: 100%;
+    }
+    .arrowBtn
+    {
+        background-color: #ccc;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 40px;
+        width: 40px;
+        border: none;
+        border-radius: 50%;
+    }
+    .arrowBtn:nth-child(1)
+    {
+        margin-right: 10px;
+    }
+}
+.restaurantsContainer
+{
+    padding: 2rem 0;
+    .filterOption{
+        padding: 1.5rem 0;
+    }
+    .filterOption button
+    {
+        border: 1px solid #ccc !important;
+        color: black;
+        margin-right: 10px;
+        border-radius: 50px;
+        text-transform: capitalize;
+    }
+    .card
+    {
+        padding: 15px;
+        transition: 0.2s;
+        .quickView
+        {
+            display: flex;
+            justify-content: center;
+        }
+        .image{
+            margin-bottom: 15px;
+            border-radius: 25px;
+            overflow: hidden;
+        }
+    }
+    .card:hover
+    {
+        transform: scale(0.95);
+        transition: 0.2s;
+    }
+    .icon{
+        background-color:'green';
+        color:'white';
+        padding:'5px';
+        border-radius: 50%;
+    }
+    .rows
+    {
+        display: flex;
+        justify-content: space-between;
+        padding: 15px 0px;
+        margin-bottom: 15px;
+        svg
+        {
+            font-size: 13px;
+            margin-right: 2px;
+        }
+    }
+    .rows,span{
+        color: #686b78;
+        font-size: 13px;
+    }
+}
+.popupContainer
+{
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    position: fixed;
+    cursor: pointer;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-50%);
+    border-radius: 10px;
+    .popupRow
+    {
+        padding: 1rem 0.5rem;
+    }
+    .popupList
+    {
+        border-right: 1px solid #ccc;
+        ul li
+        {
+            list-style-type: none;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+        }
+        .addColor{
+            border-left:8px solid #fc8019;
+        }
+    }
+    .popupDescription
+    {
+        overflow: scroll;
+        ul li
+        {
+            padding: 20px;
+            list-style-type: none;
+            margin-bottom: 20px;
+        }
+    }
+}
